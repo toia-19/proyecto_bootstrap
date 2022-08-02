@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+h2{
+    text-align: center;
+    color: black;
+    margin: 10px;
+}
+
+a{
+    color: rgb(16, 182, 126);
+}
+
+.container{
+    font-family: Nunito, arial, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.section{
+    font-family: Nunito, arial, sans-serif;
+}

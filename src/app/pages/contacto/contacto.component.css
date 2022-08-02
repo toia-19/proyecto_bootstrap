@@ -1,0 +1,13 @@
+/* Diseño */
+
+.row{
+    margin-bottom: 50px;
+}
+
+.col-6{
+    margin-bottom: 20px;
+}
+
+.bg-color{
+    background-color: rgb(16, 182, 126);
+}

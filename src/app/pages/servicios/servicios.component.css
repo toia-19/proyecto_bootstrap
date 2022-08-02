@@ -1,0 +1,17 @@
+/* Diseño Tarjetas */
+
+.card{
+    margin: 10px;
+    width:  500px;
+}
+
+.card-img-top{
+    width: 200px;
+    margin: 10px;
+    float: center;
+}
+
+.btn-color{
+    background-color: rgb(16, 182, 126);
+    color: aliceblue;
+}

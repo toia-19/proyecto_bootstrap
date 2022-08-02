@@ -1,0 +1,15 @@
+/* Librería */
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+
+/* Diseño */
+
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+}
+
+a{
+    color:rgb(16, 182, 126);
+}

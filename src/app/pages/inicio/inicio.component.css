@@ -1,0 +1,19 @@
+/* Diseño */
+
+.row{
+    margin-bottom: 20px;
+}
+
+.parrafo{
+    margin: 10px;
+    padding: 5px;
+    border: 2px dashed #ddd;
+}
+
+img{
+    margin: 10px;
+}
+
+#carouselExampleIndicators{
+    width: 700px;
+}
